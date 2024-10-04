@@ -8,7 +8,8 @@ export default {
     extend: {
       colors: {
         bgheader: "#131921",
-        bg2header: "#232F3E"
+        bg2header: "#232F3E",
+        searchIconbg: "#F3A847"
       }
     },
   },
